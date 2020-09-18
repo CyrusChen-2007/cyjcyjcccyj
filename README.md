@@ -28,13 +28,13 @@ IDE：vscode，pycharm，Xcode（But I prefer to use vim）
 Mind Mapping：Xmind
 
 ### Programming Language
-*JAVA
+* JAVA
 
-*Python
+* Python
 
-*C++
+* C++
 
-*Swift（Learning）
+* Swift（Learning）
 
 -------------------------------------------------
 -------------------------------------------------
@@ -45,7 +45,7 @@ Mind Mapping：Xmind
 
 我会分享一些配置文件和一些项目。
 
-如果您想观看我的视频，请订阅我的[bilibili]（https://space.bilibili.com/456959636）帐户。顺便三连谢谢
+如果您想观看我的视频，请订阅我的[bilibili](https://space.bilibili.com/456959636)帐户。顺便三连谢谢
 
 **如果您喜欢我，请关注我！（Github） **
 
@@ -73,13 +73,13 @@ IDE：vscode，pycharm，Xcode（但我更喜欢使用vim）
 
 
 ### 编程语言
-*JAVA
+* JAVA
 
-*Python
+* Python
 
-*C ++
+* C ++
 
-*Swift（学习中...）
+* Swift（学习中...）
 
 
 <!--
