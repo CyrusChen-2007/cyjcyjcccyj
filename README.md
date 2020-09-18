@@ -1,4 +1,4 @@
-### Hello GitHub
+# Hello GitHub
 I'm a Chinese Junior high school student.
 
 I will share some my configuration file and some Project.
@@ -7,14 +7,14 @@ If you want to watch my video, please subscribe my [bilibili](https://space.bili
 
 **If you like me, please follow me!!!!!!!**
 
-### My device And Most Used Software
+## My device And Most Used Software
 computer：MacBook Pro 16“ (i7)
 
 keyboard：Logitech MX KEYS
 
 mouse:Logitech MX Master 3
 
-#### Most Used Software
+### Most Used Software
 OS: MacOS
 
 Code Editor: vim(I'm use neovim now)
@@ -27,7 +27,7 @@ IDE：vscode，pycharm，Xcode（But I prefer to use vim）
 
 Mind Mapping：Xmind
 
-### Programming Language
+## Programming Language
 * JAVA
 
 * Python
@@ -40,7 +40,7 @@ Mind Mapping：Xmind
 -------------------------------------------------
 汝竟能识此言？！C哥曰：能识此言者乃自家人也
 
-### Hello GitHub
+# Hello GitHub
 我是一个中学生
 
 我会分享一些配置文件和一些项目。
@@ -50,7 +50,7 @@ Mind Mapping：Xmind
 **如果您喜欢我，请关注我！（Github） **
 
 
-### 我的设备和最常用的软件
+## 我的设备和最常用的软件
 电脑：MacBook Pro 16”（i7）
 
 键盘：Logitech MX KEYS
@@ -58,7 +58,7 @@ Mind Mapping：Xmind
 鼠标：Logitech MX Master 3
 
 
-#### 最常用的软件
+### 最常用的软件
 操作系统：MacOS
 
 代码编辑器：vim（我现在使用neovim）
@@ -72,7 +72,7 @@ IDE：vscode，pycharm，Xcode（但我更喜欢使用vim）
 思维导图：Xmind
 
 
-### 编程语言
+## 编程语言
 * JAVA
 
 * Python
